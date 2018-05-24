@@ -1,0 +1,6 @@
+name = Webform Smart IP
+description = Add Smart IP fields to Webforms.
+core = 7.x
+dependencies[] = webform
+dependencies[] = smart_ip
+php = 5.0

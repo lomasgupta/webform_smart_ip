@@ -1,0 +1,7 @@
+webform_smart_ip.admin_update_records_form:
+  path: /admin/config/people/webform_smart_ip
+  defaults:
+    _title: 'Webform Smart IP'
+    _form: \Drupal\webform_smart_ip\Form\WebformSmartIpAdminUpdateRecordsForm
+  requirements:
+    _permission: 'edit webform components'

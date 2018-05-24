@@ -1,0 +1,8 @@
+name: 'Webform Smart IP'
+description: 'Add Smart IP fields to Webforms.'
+core: 8.x
+dependencies:
+  - webform
+  - smart_ip
+php: '5.0'
+type: module

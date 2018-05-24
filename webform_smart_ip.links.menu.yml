@@ -1,0 +1,5 @@
+webform_smart_ip.admin_update_records_form:
+  route_name: webform_smart_ip.admin_update_records_form
+  title: 'Webform Smart IP'
+  description: 'Webform Smart IP administration'
+  parent: user.admin_index
